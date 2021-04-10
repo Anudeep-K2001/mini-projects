@@ -6,8 +6,15 @@ At those times, this software shines by just entering the current `price` of the
 `quantity` which is default to 1 if nothing is entered.
 
 
-[!limitCalc image](limitCalc.png?raw=true)
+[Limit Calculator image](limitCalc.png?raw=true)
 
+* `Target` is the Target price
+* `Stop Loss` is the stop loss amount
+* `Total Value` is the product of price and quantity
+* The value above buy is the difference between target and price
+* The vale above sell is the difference between stop loss and price
+* The Green Value is the Profit that could be benefited if trade goes your way
+* The Red value is the Loss that could occur if trade goes wrong
 
 - To run this, download/clone the folder
 - Open command prompt/terminal
