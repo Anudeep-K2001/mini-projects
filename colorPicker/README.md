@@ -15,4 +15,4 @@ To convert `.ui` file to `.py` use the command `pyuic5 input.ui -o output.py`
 
 To use it as `.exe` file, install pyinstaller using command `pip install pyinstaller`
 Open cmd/terminal and go to the folder where the program is present and use the command `pyinstaller --onefile -w main.py`
-Now the `.exe` file can be used to heart's content
+Now in the dist folder you can find the `.exe` file
