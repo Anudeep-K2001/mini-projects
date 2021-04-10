@@ -6,7 +6,7 @@ At those times, this software shines by just entering the current `price` of the
 `quantity` which is default to 1 if nothing is entered.
 
 
-
+[!Screenshot](limitCalc.png)
 
 
 
