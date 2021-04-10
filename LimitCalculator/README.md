@@ -6,9 +6,7 @@ At those times, this software shines by just entering the current `price` of the
 `quantity` which is default to 1 if nothing is entered.
 
 
-[!Screenshot](limitCalc.png)
-![alt text](https://github.com/Anudeep-K2001/mini-projects/edit/main/LimitCalculator/limitCalc.png?raw=true)
-
+[!limitCalc image](limitCalc.png?raw=true)
 
 
 - To run this, download/clone the folder
