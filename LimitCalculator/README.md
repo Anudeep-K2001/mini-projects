@@ -7,7 +7,7 @@ At those times, this software shines by just entering the current `price` of the
 
 
 [!Screenshot](limitCalc.png)
-
+![alt text](https://github.com/Anudeep-K2001/mini-projects/edit/main/LimitCalculator/limitCalc.png?raw=true)
 
 
 
