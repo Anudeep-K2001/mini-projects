@@ -81,7 +81,7 @@ print("𝄞𝄞𝄞𝄞𝄞𝄞𝄞𝄞𝄞𝄞♭♭♭♭♭♭♭♭♭♭♭
 print(f"A wild {choices[opp_choice]['name']} appeared")
 
 
-
+print("You have following moves\nA => power : 90\nB => power : 150\nC => power : 200\nD => power : 500")
 
 pokemon = choices[choice]
 opp_pokemon = choices[opp_choice]
@@ -105,10 +105,10 @@ def set_hp(damage, uOo):
 def damage_done(pk, opk, move, uOo = 0):
     global moves
     if uOo:
-        dmg = (pk['atk']/10 * moves[move]['power']/10)/(opk['def'] * 2) * 2
+        dmg = (pk['atk']/10 * moves[move]['power']/10)/(opk['def'] * 2) * 5
         set_hp(dmg, uOo)
     else:
-        dmg = (opk['atk']/10 * moves[move]['power']/10)/(pk['def'] * 2) *2
+        dmg = (opk['atk']/10 * moves[move]['power']/10)/(pk['def'] * 2) * 5
         set_hp(dmg, uOo)
 
 
@@ -134,6 +134,7 @@ def opp_turn(opk, pk):
     
     global opp_hp
     opp_move = random.choice(['A','B', 'C', 'D'])
+    damage_done(opk,pk, opp_move, 0)
     return
 
 
@@ -165,3 +166,7 @@ while 1:
         break
 
     
+if user_hp < 0:
+    print("You lost bruh")
+else:
+    print("kek you won")
