@@ -9,6 +9,8 @@
 
 
 
+## Introduction
+
 
 Unity is a game engine which has so many built in features like physics engine, collider system, 3D and 2D support and so on.
 Unity also supports VR.
@@ -16,7 +18,7 @@ Unity also supports VR.
 Even though unity is mainly aimed for gaming, Simulations for AI can be done using Unity in a very efficient way.
 
 
-## Part 1
+## Part 1 : Creating Player and its movement with animation
 
 In this project, Our goal is to make  a 2D game which is a basic farming game.
 
@@ -105,7 +107,7 @@ Now that we have added animation, let's see how it looks
 And it looks very decent now.
 
 
-## Part 2
+## Part 2 : Map creation and collision
 
 As of now, we have worked on player and his movement but there wont be much to do if there is no Map to explore.
 So let's make a map for player to roam.
@@ -128,7 +130,7 @@ as you can see the blue area in the map is the collision area where the player c
 and thats how a basic map is created.
 
 
-## Part 3
+## Part 3 : ScriptableObjects and collision detection
 
 As of now, the player can move and wander around the map but it wont be any fun it there are no items that can be used by player.
 So let's add them.
@@ -149,7 +151,11 @@ Now we have to make that when the player touches the object, it destroys and ent
 and that's the end of a basic game.
 
 
+## Conclusion
 
+Unity is a great tool for gaming and simulations since it has in-built physics engine and various many options like Collisions, NavMeshes, Rigid bodies, etc.
+Unity can be used for AI and VR which are considered the future of technology.
+There are so many wonderful Artifical Intelligent ideas popping around the world but implementing live into reality can cause a lot of havoc. That is when simulations come into place and unity is one of the best tool for simulations.
 
 
 ## Term Paper Project by
