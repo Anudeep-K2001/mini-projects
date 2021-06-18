@@ -1,10 +1,10 @@
 # A Farming Game made using Unity
 
 
-### Name : #### Kolluri Anudeep
-### Reg  : #### U18CN307
-### Sec  : #### Cse K
-### Team : #### Siva (U18CN266), Gopal (U18CN278)
+#### Name : Kolluri Anudeep
+#### Reg  : U18CN307
+#### Sec  : Cse K
+#### Team : Siva (U18CN266), Gopal (U18CN278)
 
 
 
