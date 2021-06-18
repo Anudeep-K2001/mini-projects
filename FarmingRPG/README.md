@@ -1,4 +1,14 @@
-# Term Paper
+# A Farming Game made using Unity
+
+
+### Name : #### Kolluri Anudeep
+### Reg  : #### U18CN307
+### Sec  : #### Cse K
+### Team : #### Siva (U18CN266), Gopal (U18CN278)
+
+
+
+
 
 Unity is a game engine which has so many built in features like physics engine, collider system, 3D and 2D support and so on.
 Unity also supports VR.
@@ -120,7 +130,30 @@ and thats how a basic map is created.
 
 ## Part 3
 
+As of now, the player can move and wander around the map but it wont be any fun it there are no items that can be used by player.
+So let's add them.
+
+In unity, there is something called scriptableObjects, which means that these derive from the same class (have same template) but the
+values can be changed.
+
+![image](https://user-images.githubusercontent.com/50168940/122523056-4043e400-d034-11eb-9f8e-971f611db592.png)
+
+![image](https://user-images.githubusercontent.com/50168940/122523461-a7fa2f00-d034-11eb-8986-59d06598def0.png)
+
+this is how it looks in unity.
+
+Now we have to make that when the player touches the object, it destroys and enters into his inventory.
+
+![Collection](https://user-images.githubusercontent.com/50168940/122523805-0e7f4d00-d035-11eb-9021-471f0cbb25b7.gif)
+
+and that's the end of a basic game.
 
 
 
+
+
+## Term Paper Project by
+### Kolluri Anudeep (U18CN307)
+### Settyboyana Siva (U18CN266)
+### Kotha Sai Gopal (U18CN278)
 
