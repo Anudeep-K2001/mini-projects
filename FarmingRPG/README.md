@@ -4,7 +4,7 @@
 #### Name : Kolluri Anudeep
 #### Reg  : U18CN307
 #### Sec  : Cse K
-#### Team : Siva (U18CN266), Gopal (U18CN278)
+#### Team : Siva (U18CN266), Gopal (U18CN278), Siva Koteswara Rao (U18CN268)
 
 
 
@@ -162,4 +162,4 @@ There are so many wonderful Artifical Intelligent ideas popping around the world
 ### Kolluri Anudeep (U18CN307)
 ### Settyboyana Siva (U18CN266)
 ### Kotha Sai Gopal (U18CN278)
-
+### Talari Siva Koteswara Rao (U18CN268)
